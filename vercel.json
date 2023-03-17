@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://publish.obsidian.md/tronica?url=blog.tronica.io
+      "destination": "https://publish.obsidian.md/tronica?url=blog.tronica.io"
     }
   ]
 }
